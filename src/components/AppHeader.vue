@@ -1,16 +1,11 @@
 <template>
-
   <header>
-
     <h1><span class="icon" aria-hidden="true">✅</span> To do</h1>
     <p>Building Real-world Web Applications with Vue.js 3</p>
-
   </header>
-
 </template>
 
 <style scoped>
-
 header {
   border-bottom: #333 1px solid;
   background-color: #fff;
